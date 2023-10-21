@@ -11,4 +11,4 @@ Archive of sm64js 2020 (Due to not having all node modules, This doesnt work yet
 
 
 
-10/20/23: Game works, you have to submit name (Submit name requires all node modules and not all folders and files are added yet!) Added Some More Node Modules
+10/20/23: Game works yet isnt playable due to not having most modules, you have to submit name (Submit name requires most node modules and not all folders and files are added yet!) Added Some More Node Modules
