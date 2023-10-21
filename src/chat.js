@@ -1,11 +1,11 @@
-﻿import { networkData } from "./socket"
+import { networkData } from "./socket"
 
 const emoteImg = {
-    doublek: 'doublek.png', facepalm: 'facepalm.png',
-    kappa: 'kappa.png', mariostyle: 'mariostyle.gif',
-    pogchamp: 'pogchamp.png', strange: 'strange.png',
-    kick: 'kick.gif', shock: 'shock.gif',
-    bup: 'bup.jpg'
+    doublek: 'emotes/doublek.png', facepalm: 'emotes/facepalm.png',
+    kappa: 'emotes/kappa.png', mariostyle: 'emotes/mariostyle.gif',
+    pogchamp: 'emotes/pogchamp.png', strange: 'emotes/strange.png',
+    kick: 'emotes/kick.gif', shock: 'emotes/shock.gif',
+    bup: 'emotes/bup.jpg'
 }
 
 const createEmote = (type) => {
